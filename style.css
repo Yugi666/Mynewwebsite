@@ -82,6 +82,8 @@ body {
 
 .box {
   background-color: rgb(245, 201, 82);
+  padding: 10px ;
+  border: 1px solid rgb(1, 12, 1) ;
 }
 
 .container.right::before {
