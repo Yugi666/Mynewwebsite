@@ -83,7 +83,7 @@ body {
 .box {
   background-color: rgb(245, 201, 82);
   padding: 10px ;
-  border: 1px solid rgb(1, 12, 1) ;
+  border: 1px solid rgb(2, 2, 2) ;
 }
 
 .container.right::before {
@@ -99,7 +99,7 @@ body {
     text-align: center;
     font-size: 14px;
     font-weight: bold;
-    color: #006E6D;
+    color: #000000;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
@@ -167,7 +167,7 @@ body {
     .container.left::before,
     .container.right::before {
         left: 100px;
-        border-color: transparent #006E6D transparent transparent;
+        border-color: transparent #000000 transparent transparent;
     }
 
     .container.left .date,
