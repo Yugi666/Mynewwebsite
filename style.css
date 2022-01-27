@@ -15,13 +15,13 @@ body {
 }
 
 .titolo {
-    font-size: 15rem;
-	    text-align: center;
-      height:90vh;
-      line-height: 90vh;
-	    color: #f09c27;
-	   	font-family: 'Niconne', cursive;
-	    font-weight: 700;
+    font-size: 8rem;
+    text-align: center;
+    height:90vh;
+    line-height: 90vh;
+    color: #f09c27;
+    font-family: 'Niconne', cursive;
+    font-weight: 700;
     text-shadow: 5px 5px 0px #eb452b, 
                   10px 10px 0px #efa032, 
                   15px 15px 0px #46b59b, 
